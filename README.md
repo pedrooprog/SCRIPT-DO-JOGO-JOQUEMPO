@@ -1,2 +1,2 @@
-# SCRIPT DO JOGO JOQUEMPO
- joguinho do joquempo
+# SCRIPT DO JOGO JOQUEMPÔ
+ joguinho do joquempô
